@@ -1,0 +1,4 @@
+lingadally saikiran: indepth analysis and visualization of ipl data  using python 
+arjun ps : explorartary data analysis and representation of ipl data 
+sahana rt :ipl data analysis using python
+pavan kumar s : data interpretation and visualization using python
